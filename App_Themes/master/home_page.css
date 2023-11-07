@@ -1,0 +1,40 @@
+﻿body {
+}
+
+
+.hero-content {
+    position: absolute;
+    top: 100px;
+    left: 28px;
+    transform: translate(-2%);
+}
+
+.main-heading {
+    font-weight: normal;
+    /* color: #fff; */
+    color: orange;
+    font-size: 65px;
+}
+
+.hero-cta {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 40px;
+    background: #febc1d;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.link {
+    text-decoration: none;
+    font-family: inherit;
+    color: inherit;
+}
+
+.sub-heading {
+    /* left: 100px; */
+    text-align: right;
+    color: black;
+    margin-top: 30px;
+    font-size: 18px;
+}

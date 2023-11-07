@@ -1,0 +1,126 @@
+D:\Code\VB\tybca_asp\bin\tybca_asp.dll.config
+D:\Code\VB\tybca_asp\bin\tybca_asp.dll
+D:\Code\VB\tybca_asp\bin\tybca_asp.pdb
+D:\Code\VB\tybca_asp\bin\tybca_asp.xml
+D:\Code\VB\tybca_asp\bin\roslyn\csc.exe
+D:\Code\VB\tybca_asp\bin\roslyn\csc.exe.config
+D:\Code\VB\tybca_asp\bin\roslyn\csc.rsp
+D:\Code\VB\tybca_asp\bin\roslyn\csi.exe
+D:\Code\VB\tybca_asp\bin\roslyn\csi.exe.config
+D:\Code\VB\tybca_asp\bin\roslyn\csi.rsp
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\VB\tybca_asp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.AppContext.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Console.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.IO.Compression.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Net.Http.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Net.Sockets.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.ValueTuple.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Xml.XPath.dll
+D:\Code\VB\tybca_asp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Code\VB\tybca_asp\bin\roslyn\vbc.exe
+D:\Code\VB\tybca_asp\bin\roslyn\vbc.exe.config
+D:\Code\VB\tybca_asp\bin\roslyn\vbc.rsp
+D:\Code\VB\tybca_asp\bin\roslyn\VBCSCompiler.exe
+D:\Code\VB\tybca_asp\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\VB\tybca_asp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\VB\tybca_asp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.vbproj.AssemblyReference.cache
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.Resources.resources
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.vbproj.GenerateResource.cache
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.vbproj.CoreCompileInputs.cache
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.vbproj.CopyComplete
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.dll
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.xml
+D:\Code\VB\tybca_asp\obj\Debug\tybca_asp.pdb
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\tybca_asp.dll.config
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\tybca_asp.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\tybca_asp.pdb
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\tybca_asp.xml
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csc.exe
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csc.exe.config
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csc.rsp
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csi.exe
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csi.exe.config
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\csi.rsp
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.AppContext.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Collections.Immutable.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Console.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Globalization.Calendars.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.IO.Compression.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.IO.FileSystem.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Net.Http.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Net.Sockets.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Reflection.Metadata.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.ValueTuple.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Xml.XPath.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\vbc.exe
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\vbc.exe.config
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\vbc.rsp
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\VBCSCompiler.exe
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\roslyn\VBCSCompiler.exe.config
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.vbproj.AssemblyReference.cache
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.Resources.resources
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.vbproj.GenerateResource.cache
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.vbproj.CoreCompileInputs.cache
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.vbproj.CopyComplete
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.dll
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.xml
+E:\tybca(sem-5)\asp.net program\tybca_asp\obj\Debug\tybca_asp.pdb

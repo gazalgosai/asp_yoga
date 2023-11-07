@@ -1,0 +1,49 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="master_main.master.vb" Inherits="tybca_asp.master_main"  %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Master page of Yoga</title>
+    <link href="master.css" rel="stylesheet" />
+    <link href="home_page.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     
+        <header>
+            <asp:Label ID="Label1" runat="server" Text="YOGA" CssClass="nav" Font-Size="35px"></asp:Label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink1" runat="server" CssClass="nav">HOME</asp:HyperLink>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink2" runat="server" CssClass="nav" 
+            NavigateUrl="~/User/frm_class.aspx">CLASSES</asp:HyperLink>
+&nbsp;&nbsp; &nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink3" runat="server" CssClass="nav">ABOUT US</asp:HyperLink>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink4" runat="server" CssClass="nav" NavigateUrl="~/User/frm_user_login.aspx">LOGIN</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink5" runat="server" CssClass="nav" NavigateUrl="~/admin/frm_admin_login.aspx">ADMIN</asp:HyperLink>
+        </header>
+
+        <main>
+            <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        </main>
+        <footer class="footer">
+            <asp:Label ID="Label2" runat="server" Text="Copyright © 2020 Non Degree Programmer All Rights Reversed" CssClass="footer"></asp:Label>
+
+            <br />
+            <br />
+            <asp:ImageButton ID="ImageButton1" runat="server" CssClass="svg" ImageUrl="~/Images/twitter.png" />
+            <asp:ImageButton ID="ImageButton2" runat="server" CssClass="svg" ImageUrl="~/Images/linkedin.png" />
+            <asp:ImageButton ID="ImageButton3" runat="server" CssClass="svg" ImageUrl="~/Images/instagram-new.png" />
+            <asp:ImageButton ID="ImageButton4" runat="server" CssClass="svg" ImageUrl="~/Images/IMG_20220101_114504.png" />
+        
+        </footer>
+    </form>
+</body>
+</html>
